@@ -1,22 +1,15 @@
 <div align="center">
-<img width="100%" alt="Developer Illustration" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Illustration.gif"/>
 <br />
 <br />
 
-<h2> Hi There, Welcome to my Github profile! <img src="https://github.com/YassineLr/YassineLr/blob/main/gifs/Hi.gif" width="30"></h2>
+<h2> Hi There, Welcome to my Github profile! </h2>
 <a href="https://www.linkedin.com/in/yassine-larhrissi-813b86204/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/larhrissi_y" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/yassinelarhrissi" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
 <br />
 <br />
 
-I'm a Computer science Student at <a href="https://1337.ma">UM6P - 1337FIL</a> and <a href="http://www.fsts.ac.ma/">FST - Settat</a>.
+I'm a Computer science Student at <a href="https://1337.ma">UM6P - 1337FIL</a> .
 <br />
 
 I'm currently based in **[Ben Guerir, Morocco.](https://www.google.com/maps/place/Ben+Guerir/@32.2307977,-7.9817398,13z/data=!3m1!4b1!4m5!3m4!1s0xdaf7a781193e37b:0x600a48af566b132a!8m2!3d32.2359364!4d-7.9538378)**
