@@ -2,7 +2,7 @@
 <br />
 <br />
 
-<h2> Hi There, Welcome to my Github profile! </h2>
+<h2> Hello There, Welcome to my Github profile! </h2>
 <br />
 <br />
 
@@ -18,7 +18,7 @@ I love learning new techs and using new tools. I also challenge myself everyday 
 <br />
 <br />
 
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better, Thank you in advence.<br />
 Ask me anything <a href="mailto:mokane.mourad@gmail.com"><b>Here</b></a>.
 <br />
 <br />
@@ -36,7 +36,7 @@ Ask me anything <a href="mailto:mokane.mourad@gmail.com"><b>Here</b></a>.
 <a href="https://github.com/Moskirnghh" align="left"><img src="https://visitor-badge.laobi.icu/badge?page_id=moskirnghh.moskirnghh" alt="Visitors count" /></a>
 <br />
 
-**Happy Coding!** 😊
+**Happy Coding and Have a good day!** 😊
 </div>
 
 <div align="center">
