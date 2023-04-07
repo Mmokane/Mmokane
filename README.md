@@ -19,7 +19,7 @@ I love learning new techs and using new tools. I also challenge myself everyday 
 <br />
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
-Ask me anything <a href="mailto:mokane.mourad@gmail.com"><b>send me an email</b></a>.
+Ask me anything <a href="mailto:mokane.mourad@gmail.com"><b>Here</b></a>.
 <br />
 <br />
 
