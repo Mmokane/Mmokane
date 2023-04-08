@@ -1,9 +1,9 @@
-<div align="center">
-<img width="100%" alt="Developer Illustration" src="https://github.com/Moskirnghh/GIF_/blob/master/anime-lofi.gif"/>
+<h2> Hello There, Welcome to my Github profile! </h2>
 <br />
 <br />
 
-<h2> Hello There, Welcome to my Github profile! </h2>
+<div align="center">
+<img width="100%" alt="Developer Illustration" src="https://github.com/Moskirnghh/GIF_/blob/master/anime-lofi.gif"/>
 <br />
 <br />
 
