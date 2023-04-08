@@ -1,11 +1,13 @@
-<h2> Hello There, Welcome to my Github profile! </h2>
-<br />
-<br />
-
 <div align="center">
 <img width="100%" alt="Developer Illustration" src="https://github.com/Moskirnghh/GIF_/blob/master/anime-lofi.gif"/>
 <br />
 <br />
+
+  
+<h2> Hello There, Welcome to my Github profile! </h2>
+<br />
+<br />
+
 
 I'm a Software engineering student at <a href="https://1337.ma">UM6P - 1337FIL</a> .
 <br />
