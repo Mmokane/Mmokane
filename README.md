@@ -1,4 +1,5 @@
 <div align="center">
+<img width="100%" alt="Developer Illustration" src="https://github.com/Moskirnghh/GIF_/blob/master/anime-lofi.gif"/>
 <br />
 <br />
 
