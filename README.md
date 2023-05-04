@@ -33,7 +33,7 @@ Ask me anything <a href="mailto:mokane.mourad@gmail.com"><b>Here</b></a>.
 **Sometimes the stats might not be accurate. I recommend seeing them [here](https://github-readme-stats.vercel.app/api?username=Mmokane&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A)**
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moskirnghh&layout=compact&theme=dark&bg_color=0A0A0A" alt="MmokaneTop Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmokane&layout=compact&theme=dark&bg_color=0A0A0A" alt="MmokaneTop Languages"/>
 <br />
 <br />
 <a href="https://github.com/Mmokane" align="left"><img src="https://visitor-badge.laobi.icu/badge?page_id=mmokane.mmokane" alt="Visitors count" /></a>
